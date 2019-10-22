@@ -3,13 +3,7 @@
 
 The program defines a class *Computer* and its two suclasses: *Server* and *Graphicssystem*
 
-using System;
-using System.Collections.Generic;
-
-namespace OOP_in_Csharp
-{
-    //--------------------------------
-    public class Computer
+public class Computer
 	{
 		public Computer (string ip, string make, string osystem, bool switched)
 		{
