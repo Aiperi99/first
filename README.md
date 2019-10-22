@@ -1,9 +1,9 @@
 # INTRO TO INHERITANCE
 ## The first version
 
-The program defines a class *Computer* and its two suclasses: *Server* and *Graphicssystem*.
+The program defines a class *Computer* and its two suclasses: *Server* and *GraphicsSystem*.
 
-
+````Csharp
 public class Computer
 	{
 		public Computer (string ip, string make, string osystem, bool switched)
